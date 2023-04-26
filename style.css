@@ -1,1 +1,2 @@
-.cabeçalho{background-color:greenyellow;}
+.cabeçalho{background-color:mediumblue; color: crimson; display: flex; justify-content: space-around;}
+.imagem-logo{width: 80px;}
