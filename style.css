@@ -1,5 +1,5 @@
-.cabeçalho{background-color:mediumblue; color: crimson; display: flex; justify-content: space-around;}
-.imagem-logo{width: 500px;}
+.cabeçalho{background-color:rgb(0, 255, 255); color: rgb(29, 250, 0); display: flex; justify-content: space-around;}
+.imagem-logo{width: 750px;}
 .cabeçalho-lista{display: inline-block; margin: 0 16px; }
-.site{background-color: blue;(255, 255, 255, 0.671);}
-.imagem-motores{width: 400px; height: 300px;}
+.site{background-color: rgb(0, 255, 213);(255, 255, 255, 0.671);}
+.imagem-motores{width: 500px; height: 400px;}
